@@ -1,2 +1,2 @@
 # Algorithms
-Repository with implemented alrogithms
+Repository with implemented algorithms.
